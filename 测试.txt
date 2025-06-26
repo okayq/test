@@ -1,0 +1,10 @@
+6.9周一
+将上周五部署的语音模型gpt-sovits封装成tts的api，并在openwebui和dify中成功配置使用
+6.10周二
+修复本地openwebui白屏问题，部署qwen3-embedding-8b模型
+6.11周三
+在dify中测试使用qwen3-embedding-8b模型，并尝试为qwen3-embedding-8b模型编写指令插件
+6.12周四
+使用qwen3-embedding-8b模型，对用户输入编写好指令嵌入代码，并创建知识库进行召回测试和工作流中使用
+6.13周五
+dify中部署使用qwen3-embedding-0.6b模型，同样对用户输入编写指令嵌入代码，创建知识库在工作流中使用。部署qwen3-reranker-0.6b模型并在dify中使用。
